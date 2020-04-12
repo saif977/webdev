@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 75.5 75.5" style="enable-background:new 0 0 75.5 75.5;" xml:space="preserve">
+	 <defs>
+         <linearGradient x1="0%" y1="18%" x2="77.1019345%" y2="105.904412%" id="linearGradient-1">
+             <stop stop-color="#612443" offset="0%"></stop>
+             <stop stop-color="#B14D97" offset="53.5077069%"></stop>
+             <stop stop-color="#E8335E" offset="100%"></stop>
+         </linearGradient>
+     </defs>
+<polygon stroke-width="4" fill="none" fill-rule="evenodd" stroke="url(#linearGradient-1)" class="st0" points="58.8,37.8 24.8,58.8 24.8,16.8 "/>
+</svg>
